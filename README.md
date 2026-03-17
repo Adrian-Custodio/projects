@@ -1,2 +1,3 @@
-# projects
-me trying 
+# some things
+me trying to learn
+
